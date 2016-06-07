@@ -84,7 +84,7 @@ The findNeighbour daemon will now be running.  It accepts several commands, incl
 | EXIT | Exits |
 
 
-#####Examples of use
+##### Examples of use
 ```
 # insert four sequences into the server
 INSERT 1 ACCTGNCCTG
@@ -113,7 +113,7 @@ EXIT
 
 ## 3 Start the findNeighbour web service
 
-###Server:
+### Server:
 
 python webservice_server.py ip port path_to_store_files
 
